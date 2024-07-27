@@ -5,9 +5,8 @@
 
 ## About Me
 
-- 👀 I’m passionate about discovering innovative solutions through data and algorithms.
-- 💼 I'm a mathematician and data scientist, working on exciting projects and looking forward to new challenges.
-- 📚 I’m pursuing a PhD degree in Mathematics, focusing on advanced research and applications.
-- 🧩 I love solving complex problems and constantly improving my skills.
+- 👀 I’m currently working on WVU
+- 📚 I’m pursuing a PhD degree in Mathematics
+-  👯 I’m looking to collaborate on Deep Learning projects
+-  📫 How to reach me: [📧 on e-mail](mailto:gizem.dogan2324@gmail.com)
 
-Feel free to connect with me and explore my projects!
